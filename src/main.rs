@@ -1,3 +1,6 @@
+mod bye;
+
+
 fn main() {
-    println!("Hello there!");
+    bye::say_bye();
 }
