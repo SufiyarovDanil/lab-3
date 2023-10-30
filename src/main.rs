@@ -5,5 +5,5 @@ mod bye;
 fn main() {
     hello::say_hello();
     bye::say_bye();
-    println!("Commited by Ryan");
+    println!("Commited by Ryan"); // Ты зачем это написал?
 }
